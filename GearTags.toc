@@ -1,0 +1,14 @@
+## Interface: 11509
+## Title: GearTags
+## Notes: Classic Era inventory tags, highlights and an extra vendor safety layer.
+## Notes-trTR: Çanta etiketleri, filtreler ve kilitli eşyalar için ek satış kontrolü.
+## Author: GearTags
+## Version: 0.1.0-alpha
+## SavedVariables: GearTagsDB
+## OptionalDeps: Blizzard_UIPanels_Game
+
+Model.lua
+Inventory.lua
+UI.lua
+Integrations.lua
+Core.lua
